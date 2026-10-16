@@ -1,3 +1,8 @@
+Superseded by [arch-waypure](https://github.com/cevdetch/arch-waypure).
+This repository preserves the original PKGBUILDs and development history. Active development continues in arch-waypure. Hardware-specific packages are maintained separately.
+
+---
+
 # waypure
 
 **waypure** is a curated collection of Arch Linux PKGBUILDs built for modern, minimalist systems using the Wayland display server protocol, Vulkan graphics stack, and PipeWire as the single audio solution. Legacy components such as X11, PulseAudio, and JACK are excluded or replaced where possible.
